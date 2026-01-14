@@ -1,0 +1,4762 @@
+[
+  {
+    "_id": "9107d329-eb2a-4176-ae3c-29cf039bddf0",
+    "type": "GerarRelatorio",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.888773",
+    "status": "executed",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "6df77482-f45e-4a98-9a32-cb0da365daf1",
+    "type": "NotificacaoTreinador",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.888773",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "warning"
+  },
+  {
+    "_id": "d2bd2f73-3792-4026-9cb2-eff74f148b5f",
+    "type": "GerarRelatorio",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.888773",
+    "status": "pending",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "5eb20491-52b7-4b31-8de0-24c661de063e",
+    "type": "NotificacaoTreinador",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.888773",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "critical"
+  },
+  {
+    "_id": "c0729ec9-1477-4676-837a-ee3bd0e93fb9",
+    "type": "SugestaoTreinoGR",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.888773",
+    "status": "executed",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      1,
+      3
+    ],
+    "priority": "high"
+  },
+  {
+    "_id": "76aca2c5-7789-41e6-bbd8-d32554fec4b8",
+    "type": "GerarRelatorio",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.888773",
+    "status": "pending",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "1e94e1af-40c0-46b0-a476-dbc122c772a3",
+    "type": "NotificacaoTreinador",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.888773",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "critical"
+  },
+  {
+    "_id": "a0e7ca56-7b37-40cb-a81c-efc704d97264",
+    "type": "GerarRelatorio",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.888773",
+    "status": "executed",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "d757c2a3-6035-4f86-9fce-f2eafe3881e7",
+    "type": "NotificacaoTreinador",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.888773",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "warning"
+  },
+  {
+    "_id": "c121ed77-b23b-49da-8124-f45b543e3daa",
+    "type": "SugestaoTreinoGR",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.888773",
+    "status": "executed",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      6,
+      3
+    ],
+    "priority": "high"
+  },
+  {
+    "_id": "70e45c29-4a80-45d6-bb03-a81f9a84577e",
+    "type": "GerarRelatorio",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.888773",
+    "status": "executed",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "3194eb4b-d78d-4e4f-b387-748ec8aed8ce",
+    "type": "SugestaoTreinoGR",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.888773",
+    "status": "executed",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      3,
+      5
+    ],
+    "priority": "high"
+  },
+  {
+    "_id": "e5a2da4b-60f5-4964-8bb0-b194ca32eee2",
+    "type": "GerarRelatorio",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.888773",
+    "status": "pending",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "6a75d1d3-24b8-4a3e-a878-301dc1a8e36b",
+    "type": "NotificacaoTreinador",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.888773",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "critical"
+  },
+  {
+    "_id": "c12b9c71-a479-4caf-a357-91798537cf60",
+    "type": "GerarRelatorio",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.888773",
+    "status": "pending",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "b5c8c0c6-8ef9-4ba9-b376-146bb4cafacf",
+    "type": "GerarRelatorio",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.889773",
+    "status": "executed",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "97b296a0-705c-4680-a4d0-666a71f7b63a",
+    "type": "NotificacaoTreinador",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.889773",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "warning"
+  },
+  {
+    "_id": "fc394be9-3580-4a3b-a323-fa7a850a2eb9",
+    "type": "GerarRelatorio",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.889773",
+    "status": "pending",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "b89848ea-c2d4-4a4a-84b9-af7267fa65f4",
+    "type": "SugestaoTreinoGR",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.889773",
+    "status": "executed",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      4,
+      3
+    ],
+    "priority": "low"
+  },
+  {
+    "_id": "3708b05f-79f4-41f7-8000-11f78cea40a2",
+    "type": "NotificacaoTreinador",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.889773",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "warning"
+  },
+  {
+    "_id": "35544f02-5eb3-4546-af7c-d8b4f6ed6cb0",
+    "type": "GerarRelatorio",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.889773",
+    "status": "executed",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "fb4457e2-1f23-4506-9dea-9bfe0ec7b6e9",
+    "type": "GerarRelatorio",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.889773",
+    "status": "pending",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "7010d7af-862e-421b-a0da-60f874a6a9a2",
+    "type": "SugestaoTreinoGR",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.889773",
+    "status": "pending",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      2,
+      1
+    ],
+    "priority": "low"
+  },
+  {
+    "_id": "40979cdd-b2db-4bc6-b4f7-dc059dcedce0",
+    "type": "GerarRelatorio",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.889773",
+    "status": "executed",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "e738272d-97d3-4630-95b0-591bbe4f28a3",
+    "type": "NotificacaoTreinador",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.889773",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "warning"
+  },
+  {
+    "_id": "65b8b70f-d394-4303-b2d9-701c5c30356a",
+    "type": "NotificacaoTreinador",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.889773",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "info"
+  },
+  {
+    "_id": "6a55038c-ac61-4186-b7c9-83f357576a6b",
+    "type": "SugestaoTreinoGR",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.889773",
+    "status": "executed",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      1,
+      3
+    ],
+    "priority": "medium"
+  },
+  {
+    "_id": "887d7703-3f38-4bf9-8160-e0857aa43ec2",
+    "type": "NotificacaoTreinador",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.889773",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "critical"
+  },
+  {
+    "_id": "e0c01306-6b84-4eb6-a1b8-27eb9dedd435",
+    "type": "SugestaoTreinoGR",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.889773",
+    "status": "executed",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      1,
+      1
+    ],
+    "priority": "medium"
+  },
+  {
+    "_id": "26214cc8-035a-4954-ae05-7f5be1081145",
+    "type": "NotificacaoTreinador",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.889773",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "info"
+  },
+  {
+    "_id": "d0d138b0-9ac9-4373-af05-fe330bee1da6",
+    "type": "GerarRelatorio",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.889773",
+    "status": "executed",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "f8984cdf-ae41-4fcc-832a-8da9558bef28",
+    "type": "GerarRelatorio",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.889773",
+    "status": "pending",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "6c3ad407-96a7-41d7-bf03-a6d26cd4db74",
+    "type": "SugestaoTreinoGR",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.889773",
+    "status": "pending",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      4,
+      1
+    ],
+    "priority": "low"
+  },
+  {
+    "_id": "7cb18756-90d7-43e5-993f-2e17a3652c45",
+    "type": "NotificacaoTreinador",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.889773",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "warning"
+  },
+  {
+    "_id": "a978934f-fde9-4529-ae52-fc4d94a8e2e7",
+    "type": "GerarRelatorio",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.889773",
+    "status": "executed",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "673778e8-f48a-46fe-bab4-39e9f71daaed",
+    "type": "GerarRelatorio",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.889773",
+    "status": "pending",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "4e2bbe50-a6dc-4e88-bed9-f3ea43f65a00",
+    "type": "SugestaoTreinoGR",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.889773",
+    "status": "pending",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      3,
+      4
+    ],
+    "priority": "medium"
+  },
+  {
+    "_id": "8ebf1ba2-83ca-41c9-bd6c-1fd2b26523cb",
+    "type": "GerarRelatorio",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.889773",
+    "status": "pending",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "1e21d782-43fa-4ef4-bd3d-e47c22d5f89b",
+    "type": "NotificacaoTreinador",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.889773",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "critical"
+  },
+  {
+    "_id": "d0994001-ded8-451f-9f5c-34bdd5c11c72",
+    "type": "SugestaoTreinoGR",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.889773",
+    "status": "executed",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      4,
+      6
+    ],
+    "priority": "low"
+  },
+  {
+    "_id": "47e1676e-6bfa-493b-a188-2d5c4e9a47f9",
+    "type": "GerarRelatorio",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.889773",
+    "status": "pending",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "578441a9-d7a5-42b0-8cf0-0e354e0a28c1",
+    "type": "GerarRelatorio",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.889773",
+    "status": "executed",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "75fbbb81-e0c8-41f2-b230-2217ab5070ff",
+    "type": "SugestaoTreinoGR",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.889773",
+    "status": "pending",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      6,
+      6
+    ],
+    "priority": "low"
+  },
+  {
+    "_id": "7a0d2f36-3dfb-4491-b742-2a4c9ee04349",
+    "type": "GerarRelatorio",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.889773",
+    "status": "executed",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "f44ff39c-fa82-44d9-b0bc-6f437e8711bf",
+    "type": "NotificacaoTreinador",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.889773",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "critical"
+  },
+  {
+    "_id": "320964d3-d660-4a6c-ad49-09c8e9da4180",
+    "type": "SugestaoTreinoGR",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.889773",
+    "status": "pending",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      4,
+      1
+    ],
+    "priority": "medium"
+  },
+  {
+    "_id": "42c4adad-82df-4725-80a5-b9f7425a81d1",
+    "type": "GerarRelatorio",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.889773",
+    "status": "executed",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "d81127ab-9706-4959-a123-1fd27bc83f80",
+    "type": "SugestaoTreinoGR",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.889773",
+    "status": "executed",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      2,
+      4
+    ],
+    "priority": "high"
+  },
+  {
+    "_id": "6f3b69aa-ec68-4e79-853a-5dd4ae6aa6e1",
+    "type": "GerarRelatorio",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.889773",
+    "status": "executed",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "71de7b73-a554-476d-8bf2-adddad5214a1",
+    "type": "GerarRelatorio",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.889773",
+    "status": "pending",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "710388ba-fafd-480b-ac3a-dbeb71f4bdb8",
+    "type": "GerarRelatorio",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.889773",
+    "status": "executed",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "91ce8e29-a395-4c2b-b876-98b9def1f71a",
+    "type": "NotificacaoTreinador",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.889773",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "info"
+  },
+  {
+    "_id": "354ef27b-11fc-49b4-a299-ee2d99ab70ec",
+    "type": "SugestaoTreinoGR",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.889773",
+    "status": "executed",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      3,
+      4
+    ],
+    "priority": "high"
+  },
+  {
+    "_id": "3cbe36c1-6fb0-4d61-a479-ef040beed4ca",
+    "type": "NotificacaoTreinador",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.889773",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "warning"
+  },
+  {
+    "_id": "32309069-a0a2-4dbb-88c9-e6bf7204fef0",
+    "type": "NotificacaoTreinador",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.889773",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "info"
+  },
+  {
+    "_id": "dec5282e-83b5-4397-adaf-55698bf19828",
+    "type": "NotificacaoTreinador",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.889773",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "critical"
+  },
+  {
+    "_id": "9cc66014-4f97-4d67-85e9-0eed58fb2b3b",
+    "type": "GerarRelatorio",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.889773",
+    "status": "pending",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "87bd6b49-7c64-4d2d-b515-d09e0a29ba39",
+    "type": "GerarRelatorio",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.889773",
+    "status": "pending",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "75591539-549c-4cdd-86b5-d19ef1371d51",
+    "type": "GerarRelatorio",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.889773",
+    "status": "pending",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "60f53b74-7af3-449c-a412-d325a0590da2",
+    "type": "SugestaoTreinoGR",
+    "match_id": "match1",
+    "session_id": "match1",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.889773",
+    "status": "pending",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      5,
+      6
+    ],
+    "priority": "medium"
+  },
+  {
+    "_id": "75638ea1-29f2-4c2d-a9e6-5123c8a2b85b",
+    "type": "SugestaoTreinoGR",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "pending",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      1,
+      6
+    ],
+    "priority": "low"
+  },
+  {
+    "_id": "908af3fd-cb2a-4683-ac1a-ac43b4353850",
+    "type": "GerarRelatorio",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "pending",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "44caadf2-083f-4108-8ea9-7ac76ab07ba1",
+    "type": "SugestaoTreinoGR",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "executed",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      6,
+      1
+    ],
+    "priority": "medium"
+  },
+  {
+    "_id": "b4ac6ddd-f144-4e52-bb31-8f9280acfb29",
+    "type": "SugestaoTreinoGR",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "pending",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      2,
+      4
+    ],
+    "priority": "low"
+  },
+  {
+    "_id": "2f10f537-bfae-410c-b4f1-b8c9e637aa6e",
+    "type": "GerarRelatorio",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "executed",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "855cc15b-6bfb-4c45-aceb-b5d6efb24ace",
+    "type": "SugestaoTreinoGR",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "pending",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      5,
+      6
+    ],
+    "priority": "medium"
+  },
+  {
+    "_id": "de9bee58-51c0-4608-af75-a71b927dbbb9",
+    "type": "GerarRelatorio",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "executed",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "e5f8f043-afae-4bd6-a7bb-155aa4f3c139",
+    "type": "NotificacaoTreinador",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "warning"
+  },
+  {
+    "_id": "39ec440c-af7f-476b-966a-6f9aec8861f4",
+    "type": "NotificacaoTreinador",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "warning"
+  },
+  {
+    "_id": "5dc2a290-5a5e-42a2-b467-ebe1d900a2c7",
+    "type": "GerarRelatorio",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "executed",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "8d7f45ad-6eda-4390-b653-6ac4b242bcb9",
+    "type": "SugestaoTreinoGR",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "executed",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      5,
+      1
+    ],
+    "priority": "high"
+  },
+  {
+    "_id": "4b74c558-3141-4204-b3c8-74345071f106",
+    "type": "NotificacaoTreinador",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "info"
+  },
+  {
+    "_id": "9a95fcc6-7537-4806-84f0-7e98c4913b21",
+    "type": "NotificacaoTreinador",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "info"
+  },
+  {
+    "_id": "fe9dfd9a-d36f-41fa-b967-7e28a2db5cef",
+    "type": "NotificacaoTreinador",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "info"
+  },
+  {
+    "_id": "38a247f6-d649-4f06-a3a9-e380e247c6ba",
+    "type": "NotificacaoTreinador",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "info"
+  },
+  {
+    "_id": "c28c345d-7025-4a50-a19d-d845cfcb36b9",
+    "type": "SugestaoTreinoGR",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "executed",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      2,
+      5
+    ],
+    "priority": "medium"
+  },
+  {
+    "_id": "3a7089a2-5c33-4fa7-8519-2082961933ae",
+    "type": "SugestaoTreinoGR",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "executed",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      3,
+      5
+    ],
+    "priority": "medium"
+  },
+  {
+    "_id": "dbf6d719-72cd-409e-94bd-0fb43f67b5aa",
+    "type": "GerarRelatorio",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "executed",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "3960eabf-e8fb-4f24-8a54-d8cff706503f",
+    "type": "SugestaoTreinoGR",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "executed",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      1,
+      5
+    ],
+    "priority": "medium"
+  },
+  {
+    "_id": "31faa402-e2c5-4999-8a33-198a83922096",
+    "type": "SugestaoTreinoGR",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "pending",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      4,
+      4
+    ],
+    "priority": "low"
+  },
+  {
+    "_id": "f9984ddf-d557-49ea-9f81-820d0432b203",
+    "type": "SugestaoTreinoGR",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "pending",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      4,
+      2
+    ],
+    "priority": "low"
+  },
+  {
+    "_id": "a0bf144e-5a52-405e-b5af-e26295c8f426",
+    "type": "NotificacaoTreinador",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "info"
+  },
+  {
+    "_id": "64e6c473-b1a8-42a0-9ad7-8f6cae02bf4c",
+    "type": "GerarRelatorio",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "executed",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "88e07f7e-b1b9-492a-93d6-981fcb690812",
+    "type": "NotificacaoTreinador",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "warning"
+  },
+  {
+    "_id": "f91fb583-d4cd-4a17-8ae3-6b33c48dd063",
+    "type": "NotificacaoTreinador",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "critical"
+  },
+  {
+    "_id": "edd80b12-7941-4c3c-b37d-7d54096e8815",
+    "type": "NotificacaoTreinador",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "info"
+  },
+  {
+    "_id": "dda0b571-307c-4642-8ff0-a91a6de4cdf2",
+    "type": "NotificacaoTreinador",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "info"
+  },
+  {
+    "_id": "36f37641-f470-4c65-9ebf-0159814ff3a8",
+    "type": "NotificacaoTreinador",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "info"
+  },
+  {
+    "_id": "0d9a8239-802e-42d2-b339-5b204d444102",
+    "type": "GerarRelatorio",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "executed",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "c39b6c9b-f9a6-4c4d-b693-0787a8875f0f",
+    "type": "GerarRelatorio",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "executed",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "6651378d-8602-4753-a96b-9b6e47ce1895",
+    "type": "NotificacaoTreinador",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "warning"
+  },
+  {
+    "_id": "c3704981-6b44-49f9-999f-f87a1e891ac6",
+    "type": "GerarRelatorio",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "pending",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "98cecf45-8b38-48bd-bcb9-2d4ab964b8f9",
+    "type": "NotificacaoTreinador",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "info"
+  },
+  {
+    "_id": "b0f8f65e-30a0-458a-bc71-086cb5d9dced",
+    "type": "SugestaoTreinoGR",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "pending",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      6,
+      6
+    ],
+    "priority": "medium"
+  },
+  {
+    "_id": "318594c8-ad8f-480b-8a0c-80f032b11356",
+    "type": "SugestaoTreinoGR",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "executed",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      2,
+      5
+    ],
+    "priority": "high"
+  },
+  {
+    "_id": "f5b1ecb6-6e24-4905-8e40-7a4cfb8c97c8",
+    "type": "GerarRelatorio",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "pending",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "4acc4752-5a86-42f4-9627-9a0ca21aa885",
+    "type": "NotificacaoTreinador",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "info"
+  },
+  {
+    "_id": "41807b37-5fd0-42b6-89b7-f6ecc9983566",
+    "type": "SugestaoTreinoGR",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "pending",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      5,
+      5
+    ],
+    "priority": "low"
+  },
+  {
+    "_id": "ce0cdcce-64e6-4a36-b602-32a57e7fd686",
+    "type": "NotificacaoTreinador",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "critical"
+  },
+  {
+    "_id": "e5a49fa3-03fa-4206-ab2b-f0e2603224d2",
+    "type": "GerarRelatorio",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "executed",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "de65b493-088a-416e-b46d-2fb8f7e50f30",
+    "type": "SugestaoTreinoGR",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "pending",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      1,
+      4
+    ],
+    "priority": "low"
+  },
+  {
+    "_id": "ea1658d4-9c4f-4a0e-bd59-b918977bee99",
+    "type": "NotificacaoTreinador",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "warning"
+  },
+  {
+    "_id": "81c7c62f-6259-45b8-a207-cc056bdc3604",
+    "type": "NotificacaoTreinador",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "info"
+  },
+  {
+    "_id": "18f854c2-be26-4ac0-a8f0-57fbde056212",
+    "type": "NotificacaoTreinador",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "critical"
+  },
+  {
+    "_id": "12ada9cb-ce28-41b9-857c-a036f033442a",
+    "type": "NotificacaoTreinador",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "info"
+  },
+  {
+    "_id": "522850a1-cbeb-4be3-9bc7-493a5b97e3ae",
+    "type": "NotificacaoTreinador",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "critical"
+  },
+  {
+    "_id": "e46ca18a-e703-4761-b4a1-d087b763adb2",
+    "type": "NotificacaoTreinador",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "warning"
+  },
+  {
+    "_id": "17f5bc9a-6a27-459f-912d-99e97245f304",
+    "type": "NotificacaoTreinador",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "warning"
+  },
+  {
+    "_id": "71ffbf49-5449-4012-af80-3129c2b50a90",
+    "type": "NotificacaoTreinador",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "critical"
+  },
+  {
+    "_id": "d033bba5-ae82-481e-bf86-43d9a0e7a0be",
+    "type": "GerarRelatorio",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "executed",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "919d4946-89b8-4510-92a2-4076ae704102",
+    "type": "NotificacaoTreinador",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "warning"
+  },
+  {
+    "_id": "59d1f6ae-a9ae-48f1-ad99-c2d8a5f4d8a9",
+    "type": "SugestaoTreinoGR",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "executed",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      2,
+      2
+    ],
+    "priority": "medium"
+  },
+  {
+    "_id": "cc599595-e421-4fa4-b4b5-933d2db7a4d1",
+    "type": "NotificacaoTreinador",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "warning"
+  },
+  {
+    "_id": "d1b2761b-4f22-4fed-9700-7cffa7f5697b",
+    "type": "GerarRelatorio",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "pending",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "2a6655d0-292b-4c87-8bea-680dfd99066c",
+    "type": "NotificacaoTreinador",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "warning"
+  },
+  {
+    "_id": "f8e672ac-bfd0-4069-8c9a-9d955c211f9c",
+    "type": "GerarRelatorio",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "pending",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "96b3d3ce-7b9f-45ab-81a8-f855ff89d663",
+    "type": "GerarRelatorio",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "executed",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "94eab725-cd15-4424-a152-5ba3c528991b",
+    "type": "GerarRelatorio",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "pending",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "8305d9b4-84d7-437c-b8a3-e1f48a6a9e30",
+    "type": "SugestaoTreinoGR",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "executed",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      4,
+      4
+    ],
+    "priority": "high"
+  },
+  {
+    "_id": "e7b284b2-63fb-4efc-98da-742fe08f9667",
+    "type": "GerarRelatorio",
+    "match_id": "match2",
+    "session_id": "match2",
+    "context": "match",
+    "timestamp": "2026-01-13T22:01:10.901013",
+    "status": "executed",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "2cbb2d27-b361-402a-bbd1-a28a484f97e8",
+    "type": "NotificacaoTreinador",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "critical"
+  },
+  {
+    "_id": "b5bbf85d-256d-447a-8b99-0255c4b4b0e7",
+    "type": "GerarRelatorio",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "executed",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "5b6a167a-3d33-4fbf-bb15-c99bd61f043e",
+    "type": "NotificacaoTreinador",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "info"
+  },
+  {
+    "_id": "ceaf8fb2-f54c-4832-8055-009049859ef4",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "executed",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      6,
+      3
+    ],
+    "priority": "low"
+  },
+  {
+    "_id": "4750c576-e895-48d1-b247-25bc75c284d2",
+    "type": "NotificacaoTreinador",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "info"
+  },
+  {
+    "_id": "1084acba-5196-4fc9-8b6b-f11d607c47fe",
+    "type": "GerarRelatorio",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "pending",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "a1f4c44a-c54c-4a0a-b135-fbfbc70a7fa9",
+    "type": "GerarRelatorio",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "executed",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "565c4900-ca23-4cb7-a983-a87c2a630925",
+    "type": "GerarRelatorio",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "pending",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "35c030aa-0074-4561-aeb0-1af76e1bdd3d",
+    "type": "GerarRelatorio",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "pending",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "bd896b84-2df0-4cbf-8240-4816716ff26c",
+    "type": "GerarRelatorio",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "executed",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "69069ecf-5d9e-4c28-a51c-82523f28dc71",
+    "type": "GerarRelatorio",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "executed",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "eb011bd0-6354-40fd-bad6-590cb689bac7",
+    "type": "GerarRelatorio",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "executed",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "0250e18e-39e5-4365-8250-b6146d60bb5e",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "executed",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      3,
+      2
+    ],
+    "priority": "medium"
+  },
+  {
+    "_id": "d6da3d11-bed2-45c7-8df7-4726bad24412",
+    "type": "GerarRelatorio",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "executed",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "05ab6005-5bb9-4773-8638-58270a1506ee",
+    "type": "GerarRelatorio",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "pending",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "0af4915e-9c36-404f-b007-2dbf069d8c2f",
+    "type": "NotificacaoTreinador",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "critical"
+  },
+  {
+    "_id": "5d0c0c6f-94c1-4bc2-973a-f8e24132c3b4",
+    "type": "NotificacaoTreinador",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "info"
+  },
+  {
+    "_id": "36aa9354-671a-4b7a-aa61-879e54887e5a",
+    "type": "GerarRelatorio",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "executed",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "36b64b92-1f19-4966-a125-8960365e7a49",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "executed",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      4,
+      5
+    ],
+    "priority": "high"
+  },
+  {
+    "_id": "9378dca8-c95c-4b94-9015-3944ad4a4cf4",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "pending",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      1,
+      5
+    ],
+    "priority": "low"
+  },
+  {
+    "_id": "9f77db4e-d0d3-475d-9699-7140444c3d44",
+    "type": "GerarRelatorio",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "pending",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "3caed9fc-3363-4969-b813-d3443ee62cd4",
+    "type": "NotificacaoTreinador",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "info"
+  },
+  {
+    "_id": "e055e27e-e7c2-4c39-a1bb-366a1bb456d7",
+    "type": "NotificacaoTreinador",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "warning"
+  },
+  {
+    "_id": "bdf9ca94-d364-46d5-9d03-8197736407e0",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "executed",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      5,
+      1
+    ],
+    "priority": "medium"
+  },
+  {
+    "_id": "365ffd2c-753c-43f7-ae61-6377bac5296d",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "executed",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      2,
+      1
+    ],
+    "priority": "medium"
+  },
+  {
+    "_id": "dd30d128-40c6-4c20-98e5-8eb172a8c41e",
+    "type": "NotificacaoTreinador",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "info"
+  },
+  {
+    "_id": "2576fdcd-32b1-4e8d-bfe3-5626175aad13",
+    "type": "GerarRelatorio",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "pending",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "ba7f76f5-868a-4bb2-b2b1-8adf34fdc7cd",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "pending",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      6,
+      3
+    ],
+    "priority": "medium"
+  },
+  {
+    "_id": "930feb74-9581-48e0-b20a-1ff341e876a7",
+    "type": "GerarRelatorio",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "pending",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "42b159f0-7108-48c2-b4ee-b94585b4e0e6",
+    "type": "NotificacaoTreinador",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "warning"
+  },
+  {
+    "_id": "81b0c7ca-aa63-47f7-afaf-c7490ab3c864",
+    "type": "NotificacaoTreinador",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "info"
+  },
+  {
+    "_id": "7e036f22-7183-4dca-8169-3983a6368e17",
+    "type": "NotificacaoTreinador",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "warning"
+  },
+  {
+    "_id": "770ecddd-31bc-4734-bf95-504a56064e35",
+    "type": "GerarRelatorio",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "executed",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "52d7460a-fa21-4f95-a995-ec8461165f03",
+    "type": "GerarRelatorio",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "executed",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "46aead38-ce5b-435e-95ec-3118f9eac792",
+    "type": "GerarRelatorio",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "pending",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "09dc716d-16be-43ec-a475-fc96e468706e",
+    "type": "GerarRelatorio",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "executed",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "ce8bfd51-9e33-42b1-8ff7-3aa989d772ed",
+    "type": "NotificacaoTreinador",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "critical"
+  },
+  {
+    "_id": "c85502c3-40d0-4db7-8777-34cc8e4c51bc",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "executed",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      2,
+      4
+    ],
+    "priority": "low"
+  },
+  {
+    "_id": "ae61e76a-4611-45c9-a215-96f584e1d6a1",
+    "type": "NotificacaoTreinador",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "warning"
+  },
+  {
+    "_id": "8e287e0d-9522-406c-a30a-057ecac7668a",
+    "type": "NotificacaoTreinador",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "warning"
+  },
+  {
+    "_id": "aad76c67-ec77-4ced-912a-79b12df7c592",
+    "type": "GerarRelatorio",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "pending",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "000da10a-d37f-474a-ba23-619b65ec2db1",
+    "type": "NotificacaoTreinador",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "info"
+  },
+  {
+    "_id": "ed58a852-0500-455d-a03d-192ff17ae3cc",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "executed",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      2,
+      5
+    ],
+    "priority": "low"
+  },
+  {
+    "_id": "648756f4-96c7-4e70-ae11-d60ee01465b8",
+    "type": "NotificacaoTreinador",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "critical"
+  },
+  {
+    "_id": "1c3edc66-2e20-4a84-8f60-6fd25df99662",
+    "type": "NotificacaoTreinador",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "info"
+  },
+  {
+    "_id": "877e4713-af84-45ba-a3bb-dff2518e51db",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "pending",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      6,
+      5
+    ],
+    "priority": "medium"
+  },
+  {
+    "_id": "722ce72e-e895-4716-bb7f-8a22a4ce9afd",
+    "type": "GerarRelatorio",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "pending",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "8ffd19a0-55e0-48e8-a43a-8455f8cd6231",
+    "type": "GerarRelatorio",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "executed",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "43de4a87-0788-4f2d-962f-69e0a3b87c9e",
+    "type": "NotificacaoTreinador",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "critical"
+  },
+  {
+    "_id": "1264371b-fb1a-4853-908c-0b79f5ead6c9",
+    "type": "GerarRelatorio",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "executed",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "4230fd68-1926-4e65-a68d-4fef7a75dc8a",
+    "type": "NotificacaoTreinador",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "warning"
+  },
+  {
+    "_id": "ab0e93b5-c110-473a-9ad5-3d8b7b33c29a",
+    "type": "GerarRelatorio",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "executed",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "60044ddb-421a-4dd3-9f8f-b35c7e6771ca",
+    "type": "NotificacaoTreinador",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "critical"
+  },
+  {
+    "_id": "2818545e-02a1-4c5c-ac35-7a4bd6538b11",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "pending",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      1,
+      4
+    ],
+    "priority": "high"
+  },
+  {
+    "_id": "30c83f88-0ddf-4bef-a668-7d188927d517",
+    "type": "NotificacaoTreinador",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "critical"
+  },
+  {
+    "_id": "a8563b24-6cad-407e-9c1e-e456e14d40d9",
+    "type": "NotificacaoTreinador",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "info"
+  },
+  {
+    "_id": "a512bb9c-0a84-482d-8636-35df88c1d6fe",
+    "type": "GerarRelatorio",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "pending",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "764b2024-8787-41e7-8a39-de60ea1fcc16",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "executed",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      3,
+      5
+    ],
+    "priority": "high"
+  },
+  {
+    "_id": "3441cd41-7ac9-4817-97ef-a06fe1e2a237",
+    "type": "GerarRelatorio",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "executed",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "ea782a57-e693-430e-b5c2-5228569d918b",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session1",
+    "session_id": "session1",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.913611",
+    "status": "executed",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      4,
+      4
+    ],
+    "priority": "low"
+  },
+  {
+    "_id": "8941d867-36e5-49aa-8e4c-d82a2e6f66ac",
+    "type": "GerarRelatorio",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "executed",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "4ea428b5-d9c7-4171-98e1-b3164e460dd9",
+    "type": "GerarRelatorio",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "executed",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "c9c63710-1184-44bb-9b06-3cb40083a694",
+    "type": "NotificacaoTreinador",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "critical"
+  },
+  {
+    "_id": "b34ea7e5-30d9-453e-b08b-093bb6cf9f27",
+    "type": "GerarRelatorio",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "pending",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "f7826969-127d-4a65-847a-21f48731a1d8",
+    "type": "NotificacaoTreinador",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "critical"
+  },
+  {
+    "_id": "98714752-720a-4bce-9817-710502208336",
+    "type": "NotificacaoTreinador",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "warning"
+  },
+  {
+    "_id": "60e844b8-a1bf-480d-bb64-17fff5d0eb7b",
+    "type": "NotificacaoTreinador",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "critical"
+  },
+  {
+    "_id": "03933892-95c9-43d2-af9c-3f61e13fddc4",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "pending",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      6,
+      2
+    ],
+    "priority": "medium"
+  },
+  {
+    "_id": "4c7d7e9a-0b03-4e41-9634-2e908be25a34",
+    "type": "GerarRelatorio",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "executed",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "69f169ab-fc92-4359-92a9-be2aa89b446c",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "pending",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      6,
+      2
+    ],
+    "priority": "high"
+  },
+  {
+    "_id": "5cf8e4ee-84fb-413e-b574-97521142b995",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "pending",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      6,
+      2
+    ],
+    "priority": "high"
+  },
+  {
+    "_id": "110dd4a7-bf24-4a25-acb1-5f1d92a03ba9",
+    "type": "NotificacaoTreinador",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "warning"
+  },
+  {
+    "_id": "6b29287c-9969-461e-a42e-186d534e5ec9",
+    "type": "GerarRelatorio",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "executed",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "f586bb22-1955-426c-86e7-8ab106bb5d83",
+    "type": "GerarRelatorio",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "executed",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "413c4662-cab1-49e4-8d52-a03a46a5b496",
+    "type": "NotificacaoTreinador",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "critical"
+  },
+  {
+    "_id": "53f6ada2-1ca7-43e0-acc7-11cc8385aa47",
+    "type": "NotificacaoTreinador",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "info"
+  },
+  {
+    "_id": "c3b55c48-e348-4b27-a095-4dab23bf7ae3",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "pending",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      1,
+      3
+    ],
+    "priority": "low"
+  },
+  {
+    "_id": "de50bff5-87bf-4748-be24-4dee2dc82836",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "pending",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      4,
+      1
+    ],
+    "priority": "medium"
+  },
+  {
+    "_id": "672d30e8-8897-4bff-9290-5ceccc1da036",
+    "type": "GerarRelatorio",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "executed",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "e5937dc5-a75a-4cc3-be24-322008ef3f91",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "pending",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      3,
+      4
+    ],
+    "priority": "high"
+  },
+  {
+    "_id": "085393f0-6c10-4f68-8a19-65ec8ba2becc",
+    "type": "NotificacaoTreinador",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "info"
+  },
+  {
+    "_id": "41d576cf-62a1-4096-889f-73c3138f6b8e",
+    "type": "GerarRelatorio",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "executed",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "579a5835-28f5-4bae-a2de-f55b155de799",
+    "type": "GerarRelatorio",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "pending",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "7ed609d5-a07c-4cb3-add0-b53141ef3272",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "executed",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      3,
+      1
+    ],
+    "priority": "low"
+  },
+  {
+    "_id": "1c160292-b9f4-42e0-9b3c-f8ac8470038b",
+    "type": "NotificacaoTreinador",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "critical"
+  },
+  {
+    "_id": "9025373a-6274-4142-9a4d-3219bc2a75b7",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "executed",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      3,
+      1
+    ],
+    "priority": "high"
+  },
+  {
+    "_id": "551940c2-b6a3-4925-8d02-2a90282a9209",
+    "type": "NotificacaoTreinador",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "warning"
+  },
+  {
+    "_id": "b19e01d8-6ddd-4280-aeeb-3243fad7d918",
+    "type": "GerarRelatorio",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "executed",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "fc63107a-0e71-4c54-a67d-bb4e654b2e95",
+    "type": "GerarRelatorio",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "pending",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "8bbc8e84-89f9-4ed7-baae-c024a52467d5",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "pending",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      1,
+      5
+    ],
+    "priority": "high"
+  },
+  {
+    "_id": "cf9c9fc1-9bc7-4baf-a8d5-b8c4995287c0",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "pending",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      3,
+      5
+    ],
+    "priority": "medium"
+  },
+  {
+    "_id": "41833f60-7bce-441c-a8ec-2f551edac6d9",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "executed",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      3,
+      5
+    ],
+    "priority": "low"
+  },
+  {
+    "_id": "1d05f373-3b67-4500-b48d-cc5c4b931f6a",
+    "type": "GerarRelatorio",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "pending",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "5fb046d0-30dc-4d80-9116-abde85c343c2",
+    "type": "NotificacaoTreinador",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "critical"
+  },
+  {
+    "_id": "9d9e3c3e-f21e-47e1-9430-1cce446e1448",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "executed",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      3,
+      5
+    ],
+    "priority": "high"
+  },
+  {
+    "_id": "5cabd11a-8b1f-4cea-b583-68e349f205a1",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "executed",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      2,
+      5
+    ],
+    "priority": "medium"
+  },
+  {
+    "_id": "d0e70ad9-10c7-4fbb-9ea9-ef5953efba03",
+    "type": "GerarRelatorio",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "executed",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "7eaf8ce2-5fde-407b-b5b7-685ffaa8b57c",
+    "type": "GerarRelatorio",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "executed",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "fe1d1184-9254-4f0e-9326-a6fe3b364a49",
+    "type": "NotificacaoTreinador",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "info"
+  },
+  {
+    "_id": "b70a8140-5d2f-4a32-9ef7-e40ee4405785",
+    "type": "NotificacaoTreinador",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "info"
+  },
+  {
+    "_id": "8216c061-4986-404d-98ea-a9d68e9af81b",
+    "type": "NotificacaoTreinador",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "warning"
+  },
+  {
+    "_id": "2857212b-efff-4570-95a9-df6a82274376",
+    "type": "NotificacaoTreinador",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "critical"
+  },
+  {
+    "_id": "f068a665-310c-43cd-8d60-7304d60d95d1",
+    "type": "NotificacaoTreinador",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "critical"
+  },
+  {
+    "_id": "b3646b8a-cdcf-4eb7-9618-b816aa1c6530",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "pending",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      3,
+      4
+    ],
+    "priority": "low"
+  },
+  {
+    "_id": "2dcfe7b3-d521-4bcd-b2f3-73f8616d2316",
+    "type": "GerarRelatorio",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "pending",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "ecaab4fe-afbc-491a-894a-37993c990698",
+    "type": "GerarRelatorio",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "pending",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "dae1d9fc-1c68-4ef7-8029-3b13e510c8c1",
+    "type": "NotificacaoTreinador",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "critical"
+  },
+  {
+    "_id": "061eefb9-1d12-4f64-be03-a5b1828e1e97",
+    "type": "GerarRelatorio",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "pending",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "fab8c942-1714-4046-8c29-03c4ddcdca2b",
+    "type": "NotificacaoTreinador",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "info"
+  },
+  {
+    "_id": "c3ae3164-cc3d-467c-8dfc-093f2cddb965",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "executed",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      4,
+      2
+    ],
+    "priority": "medium"
+  },
+  {
+    "_id": "f78ef4fb-a836-4d09-9c04-be700df46d81",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "pending",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      6,
+      4
+    ],
+    "priority": "low"
+  },
+  {
+    "_id": "a4670690-a0fe-4ae4-8926-abf7991757b6",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "pending",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      3,
+      6
+    ],
+    "priority": "medium"
+  },
+  {
+    "_id": "eaa44045-0fc2-4a13-a206-62eeef8d2f9e",
+    "type": "GerarRelatorio",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "pending",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "ecef016a-8e82-49ae-b227-804e2131ba72",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "executed",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      1,
+      2
+    ],
+    "priority": "low"
+  },
+  {
+    "_id": "b69829a6-9ced-41d6-ab8b-caa7273babde",
+    "type": "GerarRelatorio",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "executed",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "910aa33b-7c87-4853-8eae-fb508c228f6e",
+    "type": "GerarRelatorio",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "executed",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "c9c19301-7825-4a16-8a98-22bc4adddfef",
+    "type": "NotificacaoTreinador",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "info"
+  },
+  {
+    "_id": "257e78ff-59f9-4faf-820d-336675fa6a0e",
+    "type": "NotificacaoTreinador",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "warning"
+  },
+  {
+    "_id": "45dabf63-a7d4-4f72-a30d-486d932f6b27",
+    "type": "NotificacaoTreinador",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "critical"
+  },
+  {
+    "_id": "439756e4-6e4b-4b04-a9d8-1dd968f4f086",
+    "type": "GerarRelatorio",
+    "match_id": "session2",
+    "session_id": "session2",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.925662",
+    "status": "executed",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "c6bd4bee-cd98-4741-b784-b4d1c0b6b310",
+    "type": "GerarRelatorio",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.936686",
+    "status": "executed",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "be9af726-8afa-473a-8097-89edf71feebb",
+    "type": "NotificacaoTreinador",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.936686",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "warning"
+  },
+  {
+    "_id": "5bc705b6-83a9-41a3-b692-0d8cf31da5f2",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.936686",
+    "status": "pending",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      1,
+      2
+    ],
+    "priority": "high"
+  },
+  {
+    "_id": "f5b58496-f189-4f32-9935-c8d9cc71d284",
+    "type": "NotificacaoTreinador",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.936686",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "critical"
+  },
+  {
+    "_id": "2305f05f-96da-483e-8297-1394f6751389",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.936686",
+    "status": "pending",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      5,
+      1
+    ],
+    "priority": "high"
+  },
+  {
+    "_id": "af196289-4166-4a24-bdd0-de884e1a7809",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.936686",
+    "status": "pending",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      4,
+      1
+    ],
+    "priority": "high"
+  },
+  {
+    "_id": "bd57192c-2ac1-45bb-937c-fbd0dbe9121f",
+    "type": "NotificacaoTreinador",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.936686",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "critical"
+  },
+  {
+    "_id": "1685ea40-e929-41c9-8576-a63e54854d0c",
+    "type": "GerarRelatorio",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.936686",
+    "status": "pending",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "af516740-58b3-4a0d-b59d-1aee15885d2b",
+    "type": "NotificacaoTreinador",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.936686",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "info"
+  },
+  {
+    "_id": "a8749d71-cb42-4565-94b4-4e04b7781fa4",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.936686",
+    "status": "pending",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      4,
+      6
+    ],
+    "priority": "medium"
+  },
+  {
+    "_id": "72b9c9bd-9960-4198-a2ec-3452818bb96c",
+    "type": "NotificacaoTreinador",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.936686",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "critical"
+  },
+  {
+    "_id": "561394a5-867f-457e-89a8-6cdd39a21ddd",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.936686",
+    "status": "executed",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      4,
+      4
+    ],
+    "priority": "medium"
+  },
+  {
+    "_id": "7a758c67-1026-4710-b7c2-4e48518df1b9",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.936686",
+    "status": "pending",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      6,
+      5
+    ],
+    "priority": "medium"
+  },
+  {
+    "_id": "baa5263d-baa6-4d79-a855-dbc10bead27d",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.937687",
+    "status": "executed",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      1,
+      1
+    ],
+    "priority": "high"
+  },
+  {
+    "_id": "1f2052ff-46d4-47c5-a3fa-32cf8d325563",
+    "type": "GerarRelatorio",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.937687",
+    "status": "executed",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "1effe024-2a65-4816-9c92-fd03bef67d78",
+    "type": "GerarRelatorio",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.937687",
+    "status": "executed",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "0a331a10-fc90-4872-bad1-a3e283f8694f",
+    "type": "GerarRelatorio",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.937687",
+    "status": "executed",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "fe059703-925f-4381-a718-226267a954a3",
+    "type": "NotificacaoTreinador",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.937687",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "critical"
+  },
+  {
+    "_id": "f7d0bae1-a9f4-44c9-b5f1-765a7512f068",
+    "type": "GerarRelatorio",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.937687",
+    "status": "executed",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "a51186eb-2962-40d9-897d-1345a6cfba21",
+    "type": "NotificacaoTreinador",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.937687",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "info"
+  },
+  {
+    "_id": "e420e125-a124-435d-88a9-83b90dae25a7",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.937687",
+    "status": "executed",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      2,
+      3
+    ],
+    "priority": "medium"
+  },
+  {
+    "_id": "209f55de-c468-4490-804c-fc0b4a75fb47",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.937687",
+    "status": "executed",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      6,
+      5
+    ],
+    "priority": "high"
+  },
+  {
+    "_id": "d1c68d39-bfa7-4cd8-bcd9-a9cdea6616a9",
+    "type": "NotificacaoTreinador",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.937687",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "warning"
+  },
+  {
+    "_id": "c98e6980-5512-4bc7-a380-af6ce34bbf4e",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.937687",
+    "status": "pending",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      3,
+      1
+    ],
+    "priority": "medium"
+  },
+  {
+    "_id": "1658b56d-ff00-4afd-8499-27086fbca313",
+    "type": "GerarRelatorio",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.937687",
+    "status": "executed",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "4a7332a8-42ff-4c60-8146-fdf3bfc59c09",
+    "type": "NotificacaoTreinador",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.937687",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "info"
+  },
+  {
+    "_id": "6bba5345-9f65-4524-85c6-d5a03bde3ba7",
+    "type": "GerarRelatorio",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.937687",
+    "status": "pending",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "a402f225-d41b-4113-9da6-d51eb88f0667",
+    "type": "NotificacaoTreinador",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.937687",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "warning"
+  },
+  {
+    "_id": "e6a0f588-fc24-46b0-b728-77d4c0c15e70",
+    "type": "NotificacaoTreinador",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.937687",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "warning"
+  },
+  {
+    "_id": "b3b5077a-3711-415e-b8dd-982486eda984",
+    "type": "NotificacaoTreinador",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.937687",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "warning"
+  },
+  {
+    "_id": "83d339c7-aec1-4697-8ce9-1e3759777713",
+    "type": "GerarRelatorio",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.937687",
+    "status": "executed",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "f20fa232-44c0-4da1-a062-ab3d4b3b9d7b",
+    "type": "GerarRelatorio",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.937687",
+    "status": "executed",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "eda97cea-4d9e-4b32-80aa-c85b2bc9f131",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.937687",
+    "status": "pending",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      4,
+      5
+    ],
+    "priority": "high"
+  },
+  {
+    "_id": "e987f6ba-a04a-41c4-8b07-53d1fd13064a",
+    "type": "NotificacaoTreinador",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.937687",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "info"
+  },
+  {
+    "_id": "a8c431c1-bcdd-43cd-9ea8-322a6b3c0669",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.937687",
+    "status": "executed",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      1,
+      1
+    ],
+    "priority": "high"
+  },
+  {
+    "_id": "7ae088af-47b1-45e9-9350-b3d72c50f0d2",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.937687",
+    "status": "pending",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      3,
+      4
+    ],
+    "priority": "high"
+  },
+  {
+    "_id": "6fc50aef-4ed7-4593-ad16-91547faf50e2",
+    "type": "NotificacaoTreinador",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.937687",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "info"
+  },
+  {
+    "_id": "000ee07d-1ef9-4829-b4bd-6c771022f6a0",
+    "type": "GerarRelatorio",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.937687",
+    "status": "executed",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "b9e5ce1a-85b7-4c6a-a5fb-5ae23a1453df",
+    "type": "NotificacaoTreinador",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.937687",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "critical"
+  },
+  {
+    "_id": "27c50a84-6586-4b0a-9794-ae859e583738",
+    "type": "GerarRelatorio",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.937687",
+    "status": "pending",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "d5b28e63-023b-4483-9a70-c89cf3302acc",
+    "type": "GerarRelatorio",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.937687",
+    "status": "pending",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "59ab9cd9-bab9-4989-883e-1a1299ef81ea",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.937687",
+    "status": "pending",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      5,
+      4
+    ],
+    "priority": "high"
+  },
+  {
+    "_id": "8bef27c7-baad-49dd-b1a9-cf27f865e5ec",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.937687",
+    "status": "pending",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      6,
+      4
+    ],
+    "priority": "high"
+  },
+  {
+    "_id": "983e80f9-938d-410c-846c-9c31511db203",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.937687",
+    "status": "executed",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      2,
+      2
+    ],
+    "priority": "medium"
+  },
+  {
+    "_id": "fc806f9c-36a5-4afb-a67d-2a63c1e619a1",
+    "type": "GerarRelatorio",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.937687",
+    "status": "pending",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "0edc4094-a832-4fc8-8d2a-a761fbba1573",
+    "type": "NotificacaoTreinador",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.937687",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "info"
+  },
+  {
+    "_id": "74e3864f-8c9a-4774-a300-23d87aaa19a9",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.937687",
+    "status": "executed",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      3,
+      4
+    ],
+    "priority": "high"
+  },
+  {
+    "_id": "eb861680-3c04-49e5-9637-5f4f46136eef",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.937687",
+    "status": "pending",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      5,
+      2
+    ],
+    "priority": "medium"
+  },
+  {
+    "_id": "a77352b4-e16c-4d27-a9c1-45d457bbbb1a",
+    "type": "NotificacaoTreinador",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.937687",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "warning"
+  },
+  {
+    "_id": "40f2a487-0cd4-46ac-a360-2cdd3a267edd",
+    "type": "NotificacaoTreinador",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.937687",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "info"
+  },
+  {
+    "_id": "c166c88d-e32e-4e1a-8809-e0375df102f5",
+    "type": "GerarRelatorio",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.937687",
+    "status": "pending",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "e1311aab-ff58-4d59-bee0-5719f3856010",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.937687",
+    "status": "pending",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      1,
+      4
+    ],
+    "priority": "high"
+  },
+  {
+    "_id": "aa5394d3-0b1d-4ab0-98f5-fd7429945ac8",
+    "type": "GerarRelatorio",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.937687",
+    "status": "executed",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "452c1edc-ffaa-421f-a215-2b2dfbae8c02",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.937687",
+    "status": "pending",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      6,
+      6
+    ],
+    "priority": "medium"
+  },
+  {
+    "_id": "8f94c175-bba5-40f1-8260-63f40ec6971e",
+    "type": "GerarRelatorio",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.937687",
+    "status": "pending",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "bb5e7457-cb46-47b0-a5f9-e6b19ffe6b6c",
+    "type": "GerarRelatorio",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.937687",
+    "status": "executed",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "abe2b549-5d0a-411b-982e-5f3a1e43cfb6",
+    "type": "NotificacaoTreinador",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.937687",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "critical"
+  },
+  {
+    "_id": "841257e1-0688-4aa6-9d8f-559cc70e966a",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.937687",
+    "status": "executed",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      2,
+      1
+    ],
+    "priority": "low"
+  },
+  {
+    "_id": "3a8b215f-7e05-4f6b-9f4b-2965e9956ac1",
+    "type": "NotificacaoTreinador",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.937687",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "info"
+  },
+  {
+    "_id": "4ff53f8e-76e6-4d91-ab95-759bcd784fb3",
+    "type": "GerarRelatorio",
+    "match_id": "session3",
+    "session_id": "session3",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.937687",
+    "status": "executed",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "2bafa3f8-0678-4818-96a6-a5e93b3f6064",
+    "type": "GerarRelatorio",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "executed",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "3fb6d555-880c-4a87-8143-00c63fce4272",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "executed",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      2,
+      2
+    ],
+    "priority": "low"
+  },
+  {
+    "_id": "b666b4c3-033d-44cd-ac38-2da6ea9aea4d",
+    "type": "NotificacaoTreinador",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "warning"
+  },
+  {
+    "_id": "57d19a37-c66d-422b-b5f6-e7a2223ac9bb",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "pending",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      4,
+      5
+    ],
+    "priority": "medium"
+  },
+  {
+    "_id": "1ad80cb7-37d5-4846-8968-a96cb666823b",
+    "type": "GerarRelatorio",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "pending",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "e524ec5f-4f17-487d-8315-05a7e23647ec",
+    "type": "NotificacaoTreinador",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "info"
+  },
+  {
+    "_id": "bee58814-c190-430c-b9d1-a33fb6949acd",
+    "type": "NotificacaoTreinador",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "critical"
+  },
+  {
+    "_id": "f2288186-c78b-4f73-9035-7ae2910ef78b",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "pending",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      6,
+      4
+    ],
+    "priority": "medium"
+  },
+  {
+    "_id": "237203d7-5c45-4c82-83fb-944139f7be5a",
+    "type": "GerarRelatorio",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "pending",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "052c897e-3915-4c6b-8018-5304bf1d1979",
+    "type": "GerarRelatorio",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "executed",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "fedbf3a8-effd-4b4a-bd63-1d5a8cf38aea",
+    "type": "GerarRelatorio",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "executed",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "ff99f546-7035-4133-a485-ef1d102352ad",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "pending",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      3,
+      5
+    ],
+    "priority": "medium"
+  },
+  {
+    "_id": "17928a38-3e86-49b0-8d07-4029957a91a3",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "executed",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      3,
+      6
+    ],
+    "priority": "medium"
+  },
+  {
+    "_id": "9818aa70-7e4d-4cf6-9aca-05b75c73823c",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "pending",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      4,
+      6
+    ],
+    "priority": "low"
+  },
+  {
+    "_id": "af0f7852-e9b7-4305-b703-5c1e21f9e435",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "executed",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      6,
+      2
+    ],
+    "priority": "high"
+  },
+  {
+    "_id": "f1e11f86-a05c-4a18-a493-6afa45d3e1b6",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "pending",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      5,
+      5
+    ],
+    "priority": "high"
+  },
+  {
+    "_id": "2d1ab3fd-8ff6-4932-aed7-f16f29599dca",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "executed",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      5,
+      6
+    ],
+    "priority": "high"
+  },
+  {
+    "_id": "4ab7830f-f33f-448b-bf12-fce29cdc5602",
+    "type": "GerarRelatorio",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "executed",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "f80bbf25-fa1d-4c27-a19e-6b31f6237686",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "pending",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      1,
+      3
+    ],
+    "priority": "low"
+  },
+  {
+    "_id": "802b4b43-d710-44c8-94cc-6e496b842fc7",
+    "type": "NotificacaoTreinador",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "critical"
+  },
+  {
+    "_id": "0ccc7e70-4787-47c5-a1cf-98b629127029",
+    "type": "GerarRelatorio",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "executed",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "b33c316a-43b4-442e-a189-d2783b643863",
+    "type": "GerarRelatorio",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "executed",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "1a51fcff-d1eb-4dc9-914f-77facac0dba4",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "executed",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      3,
+      6
+    ],
+    "priority": "high"
+  },
+  {
+    "_id": "c0850988-e84e-4015-a151-db6744de1a6b",
+    "type": "NotificacaoTreinador",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "info"
+  },
+  {
+    "_id": "b0cf2e47-bcd1-4549-ae37-55b2abaf6f7e",
+    "type": "GerarRelatorio",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "executed",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "54d40b58-74e3-4b43-a8ab-a8a869693071",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "executed",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      2,
+      3
+    ],
+    "priority": "low"
+  },
+  {
+    "_id": "4afbda53-ad94-435b-bb7c-abf8062e0ecb",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "executed",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      1,
+      3
+    ],
+    "priority": "low"
+  },
+  {
+    "_id": "462a781a-7417-4ba3-85fb-398fcf72c66b",
+    "type": "NotificacaoTreinador",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "warning"
+  },
+  {
+    "_id": "13cfd31f-6bbf-4732-8e6a-1039193cf4cf",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "pending",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      5,
+      3
+    ],
+    "priority": "high"
+  },
+  {
+    "_id": "a7c35abc-97c9-4f8a-9c57-6ead8d6e1da5",
+    "type": "GerarRelatorio",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "executed",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "36be456d-740d-46ec-bded-6626e51c312c",
+    "type": "NotificacaoTreinador",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "critical"
+  },
+  {
+    "_id": "b38b903e-9771-4960-8140-44ad65b098de",
+    "type": "NotificacaoTreinador",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "info"
+  },
+  {
+    "_id": "b51d6aeb-1794-4648-9b26-79feeea4e2f3",
+    "type": "NotificacaoTreinador",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "warning"
+  },
+  {
+    "_id": "76f83202-ecbc-4c12-acce-05ce802ef3b5",
+    "type": "NotificacaoTreinador",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "info"
+  },
+  {
+    "_id": "bea3d5b7-0368-4474-bd11-3401e7d17ddf",
+    "type": "NotificacaoTreinador",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "warning"
+  },
+  {
+    "_id": "48246c5b-08f7-4f6d-baae-1173e0098015",
+    "type": "NotificacaoTreinador",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "critical"
+  },
+  {
+    "_id": "fa59ad10-cc4b-4c84-a0e3-7a5bc6087372",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "executed",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      6,
+      2
+    ],
+    "priority": "medium"
+  },
+  {
+    "_id": "62abafcf-3a84-447e-9f43-56fdb89ebd91",
+    "type": "GerarRelatorio",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "pending",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "075434c3-0a0e-4766-a30b-72dc4000d06e",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "pending",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      1,
+      4
+    ],
+    "priority": "high"
+  },
+  {
+    "_id": "27546bbc-d65f-4f40-a0d5-6d24d3c4ce57",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "pending",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      3,
+      1
+    ],
+    "priority": "high"
+  },
+  {
+    "_id": "e499f347-46b1-473d-b63e-da5e83c956a1",
+    "type": "NotificacaoTreinador",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "info"
+  },
+  {
+    "_id": "d2e90f10-33c5-4025-883b-17817408b42e",
+    "type": "NotificacaoTreinador",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "critical"
+  },
+  {
+    "_id": "c1191992-f7c8-4c69-8830-d0a0b15782e0",
+    "type": "NotificacaoTreinador",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "critical"
+  },
+  {
+    "_id": "d6a28a98-f402-407f-ab88-425e53d54685",
+    "type": "NotificacaoTreinador",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "warning"
+  },
+  {
+    "_id": "10dca212-8a4c-4d22-a9fc-01f27210ece7",
+    "type": "NotificacaoTreinador",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "info"
+  },
+  {
+    "_id": "0a210e52-d4aa-4469-9645-37e6a539ed83",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "pending",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      4,
+      5
+    ],
+    "priority": "medium"
+  },
+  {
+    "_id": "eceaf3f8-059b-4824-b810-8e07d6979742",
+    "type": "NotificacaoTreinador",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "pending",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "critical"
+  },
+  {
+    "_id": "9dfabce0-8667-4831-9d36-9edb0c4c6d45",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "pending",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      2,
+      1
+    ],
+    "priority": "low"
+  },
+  {
+    "_id": "b7c81704-65bb-41af-8188-cb6e723c5fe4",
+    "type": "GerarRelatorio",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "executed",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "79ead836-0a11-4d44-abd4-cd59b68313fe",
+    "type": "GerarRelatorio",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "pending",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "c79d8ab6-991e-45ed-bd30-b8dea5aeff85",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "pending",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      4,
+      1
+    ],
+    "priority": "medium"
+  },
+  {
+    "_id": "4e52e250-350e-4847-bb86-e69cfc377521",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "executed",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      3,
+      1
+    ],
+    "priority": "low"
+  },
+  {
+    "_id": "80b7624f-b949-408b-8365-687d029a7461",
+    "type": "GerarRelatorio",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "pending",
+    "report_type": "training",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  },
+  {
+    "_id": "91528619-6547-4c90-9daa-38805d9da314",
+    "type": "NotificacaoTreinador",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "info"
+  },
+  {
+    "_id": "06459a5e-5556-4b1e-a360-17c9e4a80b3c",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "pending",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      6,
+      4
+    ],
+    "priority": "low"
+  },
+  {
+    "_id": "217c0534-2065-4cb5-8513-2cb548b75fe1",
+    "type": "NotificacaoTreinador",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "warning"
+  },
+  {
+    "_id": "20952d46-b5f1-4fde-abb6-f5fdc6bd6ef8",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "pending",
+    "goalkeeper": "Diogo Ribeiro",
+    "weak_zones": [
+      6,
+      2
+    ],
+    "priority": "low"
+  },
+  {
+    "_id": "5b9a2e28-82f3-466d-a11e-be2af17ebe03",
+    "type": "NotificacaoTreinador",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "executed",
+    "message": "Zona fraca identificada no lado esquerdo",
+    "severity": "info"
+  },
+  {
+    "_id": "b6adcc93-627c-4a49-bb48-ff6d15c59674",
+    "type": "SugestaoTreinoGR",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "executed",
+    "goalkeeper": "Humberto Gomes",
+    "weak_zones": [
+      4,
+      3
+    ],
+    "priority": "low"
+  },
+  {
+    "_id": "f630432b-991a-4bea-ac62-2f05fe8dca51",
+    "type": "GerarRelatorio",
+    "match_id": "session4",
+    "session_id": "session4",
+    "context": "training",
+    "timestamp": "2026-01-13T22:01:10.948748",
+    "status": "executed",
+    "report_type": "match",
+    "kpis": [
+      "save_rate",
+      "reaction_time_avg"
+    ]
+  }
+]
