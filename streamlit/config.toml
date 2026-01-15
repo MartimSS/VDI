@@ -1,0 +1,122 @@
+# ============================================================================
+# TEMA PERSONALIZADO - DASHBOARD ANÁLISE ANDEBOL
+# ============================================================================
+# Este arquivo configura o tema visual completo do dashboard Streamlit
+# Reinicie o app após fazer alterações neste arquivo
+
+[theme]
+# Tema base (pode ser "light" ou "dark")
+base = "light"
+
+# Cor primária - usada em botões, links, checkboxes, sliders
+# Azul vibrante para elementos interativos
+primaryColor = "#1E88E5"  # Azul médio vibrante
+
+# Cor de fundo principal da aplicação
+# Branco limpo
+backgroundColor = "#FFFFFF"  # Branco puro
+
+# Cor de fundo secundária - usada em sidebar, cards, etc
+# Azul claro elegante
+secondaryBackgroundColor = "#E3F2FD"  # Azul muito claro
+
+# Cor do texto principal
+# Cinza escuro para boa legibilidade
+textColor = "#1E1E1E"  # Cinza muito escuro
+
+# Fonte do texto - opções: "sans serif", "serif", "monospace"
+font = "sans serif"
+
+# ============================================================================
+# CONFIGURAÇÕES ADICIONAIS
+# ============================================================================
+
+[server]
+# Porta do servidor (padrão: 8501)
+port = 8501
+
+# Ativar CORS
+enableCORS = false
+
+# Permitir WebSocket
+enableXsrfProtection = true
+
+# Habilitar watchdog para auto-reload
+runOnSave = true
+
+# Limite de upload de arquivos (em MB)
+maxUploadSize = 200
+
+# Timeout de execução de scripts (em segundos)
+# Se análises demorarem muito, aumente este valor
+scriptMaxRunSeconds = 300
+
+[browser]
+# Abrir navegador automaticamente ao iniciar
+gatherUsageStats = false
+
+# Cor da aba do navegador
+serverAddress = "localhost"
+
+[runner]
+# Executar código em modo rápido
+magicEnabled = true
+
+[client]
+# Mostrar barra de ferramentas de desenvolvimento
+toolbarMode = "developer"
+
+# Mostrar detalhes de erro
+showErrorDetails = true
+
+
+# ============================================================================
+# OPÇÕES DE TEMAS ALTERNATIVOS
+# ============================================================================
+# Descomente uma das seções abaixo para experimentar outros temas
+# Lembre-se de comentar a seção [theme] acima antes de ativar outra
+
+# --- TEMA CLARO PROFISSIONAL ---
+# [theme]
+# base = "light"
+# primaryColor = "#FF6B35"  # Laranja
+# backgroundColor = "#FFFFFF"  # Branco
+# secondaryBackgroundColor = "#F0F2F6"  # Cinza claro
+# textColor = "#262730"  # Quase preto
+# font = "sans serif"
+
+# --- TEMA AZUL ESPORTIVO ---
+# [theme]
+# base = "dark"
+# primaryColor = "#00D9FF"  # Ciano brilhante
+# backgroundColor = "#0A1929"  # Azul muito escuro
+# secondaryBackgroundColor = "#1A2332"  # Azul médio escuro
+# textColor = "#E3F2FD"  # Azul muito claro
+# font = "sans serif"
+
+# --- TEMA VERDE CAMPO ---
+# [theme]
+# base = "dark"
+# primaryColor = "#4CAF50"  # Verde vibrante
+# backgroundColor = "#121212"  # Preto
+# secondaryBackgroundColor = "#1E1E1E"  # Cinza muito escuro
+# textColor = "#FFFFFF"  # Branco puro
+# font = "sans serif"
+
+# --- TEMA VERMELHO/AMARELO ENERGIA ---
+# [theme]
+# base = "light"
+# primaryColor = "#D32F2F"  # Vermelho forte
+# backgroundColor = "#FFFDE7"  # Amarelo muito claro
+# secondaryBackgroundColor = "#FFF9C4"  # Amarelo claro
+# textColor = "#1B1B1B"  # Preto suave
+# font = "sans serif"
+
+# --- TEMA ROXO PREMIUM ---
+# [theme]
+# base = "dark"
+# primaryColor = "#9C27B0"  # Roxo vibrante
+# backgroundColor = "#1A1625"  # Roxo muito escuro
+# secondaryBackgroundColor = "#2D2438"  # Roxo escuro
+# textColor = "#F3E5F5"  # Roxo muito claro
+# font = "sans serif"
